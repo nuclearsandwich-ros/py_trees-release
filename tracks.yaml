@@ -166,4 +166,5 @@ tracks:
     ros_distro: verystable
     vcs_type: git
     vcs_uri: https://github.com/splintered-reality/py_trees.git
-    version: :{auto}
+    version: 2.0.14
+    version_saved: :{auto}
